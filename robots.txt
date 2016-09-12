@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Sitemap:http://recyclewaste.xyz/sitemap.xml
+
+User-agent:Yeti
+Disallow: 
